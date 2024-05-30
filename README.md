@@ -1,6 +1,4 @@
-# Quora_text_classification
-
-## Quora Insincere Questions Classification
+# Quora Insincere Questions Classification
 
 ### Project Overview
 This project aims to classify questions from the Quora platform as either sincere or insincere. The objective is to develop a model that can detect toxic or insincere questions, which can then be flagged and appropriately handled to maintain a healthy and constructive online community.
